@@ -1,6 +1,8 @@
 # EN: Adjustable-Humidity-Switch
 **Simple (de-)humidifier-switch for all basements.**
 
+![image](Elektronik-Box.png)
+
 Power switch with adjustable humidity limit to save power in a basement dehumidifier.
 Together with a dehumidifier or a mobile air conditioner, possibly with additional exhaust air, this is a way to keep the poisonous "Aspergillus" (black or green mold) found in almost all basements away without using too much electricity. Unfortunately, with most dehumidifiers the fan is always running - it cannot be switched off - and a ~800W to 3500W device can "eat up" a lot of electricity (150W for the fan?) - even if the compressor consumes most of it.
 The programming of the board (Arduino Pro Mini module) can be created or optimized quite easily these days with ChatGPT, although this still involves quite a lot of corrections or requests that usually have to be provided later. But at least you save a lot of time troubleshooting the program (sequence).
