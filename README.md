@@ -1,4 +1,4 @@
-# EN: Adjustable-Humidity-Switch
+## EN: Adjustable-Humidity-Switch
 **Simple (de-)humidifier-switch for all basements.**
 
 ![image](Elektronik-Box.png)
@@ -10,7 +10,7 @@ Another advantage of such an exhaust air device compared to air conditioning sys
 The humidity threshold (the best relative humidity for people is between 50-60%) - and can be set with this switch. With a small hysteresis (approx. -8% below the set value) the dehumidifier is switched off.
 As a humidity sensor I chose a capacitor type, the DHT22. The DHT series is relatively stable and insensitive to environmental influences.
 
-# DE: Einstellbarer Feuchte-Schalter
+## DE: Einstellbarer Feuchte-Schalter
 **Einfacher (Ent-)Feuchter-Schalter für alle Keller.**
 
 Zusammen mit einem Luftentfeuchter oder einem mobilen Klimagerät, evtl. mit zusätzlicher Abluft, ist dies eine Möglichkeit, den in fast allen Kellern anzutreffenden, giftigen "Aspergillus" (schwarzer oder grüner Schimmelbefall) fernzuhalten, ohne dabei allzu viel Strom zu verbrauchen. Bei den meisten Luftentfeuchtern läuft nämlich der Ventilator leider immer durch - nicht abschaltbar - und so ein ~800W bis 3500W Gerät kann tüchtig "Strom fressen" (150W für den Lüfter?) - auch wenn der Kompressor das Meiste davon schluckt.
